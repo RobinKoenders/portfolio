@@ -7,3 +7,16 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+header {
+  text-align: center;
+  background-color: #89B0AE;
+  color: #4C4C4C;
+  width: 960px;
+  margin-left: 240px;
+  margin-right: 480px;
+}
+
+header h1 {
+  padding-bottom: 5px;
+}
