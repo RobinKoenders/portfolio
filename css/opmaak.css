@@ -1,5 +1,5 @@
 body {
-  background-color: #4C4C4C;
+  background-color: #BEE3DB;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 }
 
@@ -8,15 +8,25 @@ body {
   padding: 0px;
 }
 
+section {
+  color: #4C4C4C;
+}
+
 header {
   text-align: center;
   background-color: #89B0AE;
   color: #4C4C4C;
-  width: 960px;
-  margin-left: 240px;
-  margin-right: 480px;
 }
 
 header h1 {
   padding-bottom: 5px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul {
+  text-align: center;
+  padding-top: 10px;
 }
