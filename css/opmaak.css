@@ -22,12 +22,14 @@ header h1 {
   padding-bottom: 5px;
 }
 
-ul li{
-  display: inline-block;
-  text-decoration: none;
+header img {
+  float: left;
 }
 
-ul {
-  text-align: center;
-  padding-top: 10px;
+.rij1 {
+  float: left;
+}
+
+.rij2 {
+  float: left;
 }
