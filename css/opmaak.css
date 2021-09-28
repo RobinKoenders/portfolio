@@ -28,8 +28,18 @@ header img {
 
 .rij1 {
   float: left;
+  margin-left: 17%;
 }
 
 .rij2 {
   float: left;
+  margin-left: 17%
+}
+
+.rechterHeaders{
+  margin-left: 900px;
+}
+
+.linkerHeaders{
+  text-align: center;
 }
