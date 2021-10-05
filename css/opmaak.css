@@ -83,6 +83,11 @@ article h3{
   margin-left: 50px;
 }
 
+.aanwezig{
+  background-color: #4C4C4C;
+  color: #89B0AE;
+}
+
 article a{
   color: #4C4C4C;
   text-decoration: none;
