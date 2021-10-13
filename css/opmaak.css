@@ -97,3 +97,19 @@ article a{
   margin-top: 100px;
   text-align: center;
 }
+
+#badges{
+  float: left;
+  margin-left: 10%;
+}
+
+#badgesTxt{
+  margin-left: 20%;
+  width: 1000px;
+}
+
+#badgesList{
+  margin-top: 1px;
+  float: left;
+  white-space: nowrap;
+}
