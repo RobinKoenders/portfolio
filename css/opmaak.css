@@ -12,54 +12,15 @@ section {
   color: #4C4C4C;
 }
 
-header {
+h1 {
   text-align: center;
   background-color: #89B0AE;
   color: #4C4C4C;
   position: fixed;
   width: 1536px;
+  padding-bottom: 4px
 }
 
-header h1 {
-  padding-bottom: 5px;
-}
-
-header img {
-  float: left;
-  margin-top: 3px;
-  margin-left: 10px;
-}
-
-.rij1 {
-  float: left;
-  margin-left: 17%;
-}
-
-.rij2 {
-  float: left;
-  margin-left: 17%
-}
-
-.rechterHeaders{
-  margin-left: 900px;
-}
-
-.linkerHeaders{
-  text-align: center;
-}
-
-#Blender-1{
-  margin-left: 50px;
-}
-
-#HTMLCSS-1{
-   margin-left: 50px;
-}
-
-article h2{
-  text-align: center;
-
-}
 
 article ul{
   margin-left: 525px;
@@ -112,4 +73,18 @@ article a{
   margin-top: 1px;
   float: left;
   white-space: nowrap;
+}
+
+td{
+  padding-left: 40px;
+}
+
+#tabel{
+  text-align: center;
+  margin-left: 250px;
+  margin-top: 10px;
+}
+
+.projectenTekst{
+  text-align: center;
 }
