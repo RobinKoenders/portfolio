@@ -149,12 +149,14 @@ iframe{
   width: 550px;
 }
 
-#nulBoven{
+#blenderBoven{
   float: right;
+  margin-right: 100px;
   margin-top: -150px;
 }
 
-#nulOnder{
+#blenderOnder{
   clear: right;
-  float: right
+  float: right;
+  margin-right: 100px;
 }
