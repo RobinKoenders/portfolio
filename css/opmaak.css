@@ -160,3 +160,19 @@ iframe{
   float: right;
   margin-right: 100px;
 }
+
+#indexHeader{
+  text-align: center;
+}
+
+#klimmen{
+  float: right;
+  margin-top: -300px;
+  margin-right: 50px;
+  margin-left: 10px;
+}
+
+#fiets{
+  float: right;
+  margin-top: -300px;
+}
