@@ -148,3 +148,13 @@ iframe{
 #specialeTekst{
   width: 550px;
 }
+
+#nulBoven{
+  float: right;
+  margin-top: -150px;
+}
+
+#nulOnder{
+  clear: right;
+  float: right
+}
