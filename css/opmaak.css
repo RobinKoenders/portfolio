@@ -48,8 +48,7 @@ article h3{
   background-color: #4C4C4C;
   color: #89B0AE;
 }
-
-article a{
+ul a{
   color: #4C4C4C;
   text-decoration: none;
   display: inline-block;
@@ -90,7 +89,7 @@ td{
 }
 
 .contactPlaatjes{
-  margin-left: 170px;
+  margin-left: 180px;
   margin-top: 80px;
   text-align: center;
   padding-right: 1px;
@@ -104,4 +103,42 @@ td{
 #contactHeader{
   text-align: center;
   margin-top: 100px;
+}
+
+#tekst0{
+  width: 500px;
+}
+
+#boven{
+  float: right;
+  margin-top: -160px;
+  margin-right: 100px
+}
+
+#onder{
+  clear: right;
+  float: right;
+  margin-right: 100px;
+  margin-top: 5px;
+}
+
+#filmpjeBoven{
+  float: right;
+  margin-top: -270px;
+  margin-right: 100px
+}
+
+#filmpjeOnder{
+  clear: right;
+  float: right;
+  margin-right: 100px
+}
+
+#filmpjeTekst{
+  width: 550px;
+}
+
+iframe{
+  border: none;
+  margin-bottom: 5px;
 }
