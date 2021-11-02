@@ -6,6 +6,7 @@ body {
 * {
   margin: 0px;
   padding: 0px;
+
 }
 
 section {
@@ -124,11 +125,12 @@ td{
 
 #filmpjeBoven{
   float: right;
-  margin-top: -270px;
+  margin-top: -325px;
   margin-right: 100px
 }
 
 #filmpjeOnder{
+  margin-top: -40px;
   clear: right;
   float: right;
   margin-right: 100px
@@ -141,7 +143,7 @@ iframe{
 
 #filmpje-1{
   float: right;
-  margin-top: -440px;
+  margin-top: -550px;
   margin-right: 100px
 }
 
@@ -152,7 +154,7 @@ iframe{
 #blenderBoven{
   float: right;
   margin-right: 100px;
-  margin-top: -150px;
+  margin-top: -190px;
 }
 
 #blenderOnder{
@@ -175,4 +177,17 @@ iframe{
 #fiets{
   float: right;
   margin-top: -300px;
+}
+
+#websiteBoven{
+  float: right;
+  margin-right: 100px;
+  margin-top: -310px;
+}
+
+#websiteOnder{
+  margin-top: -20px;
+  float: right;
+  clear: right;
+  margin-right: 100px;
 }
